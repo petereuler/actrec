@@ -1,0 +1,12 @@
+# Ignore everything by default
+*
+
+# Allow only these files
+!data_loader.py
+!recon_model.py
+!recon_test.py
+!recon_train.py
+!template_select.py
+
+# Keep the .gitignore itself
+!.gitignore
