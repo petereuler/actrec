@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+baselines/github/*/.git/
+data/auth_audit_tmp/
+runs/
+artifacts*/
