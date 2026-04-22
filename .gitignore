@@ -2,7 +2,21 @@ __pycache__/
 *.pyc
 .DS_Store
 
+authdata/
+data/
 baselines/github/*/.git/
+baselines/github/har_cnn/data/
+baselines/github/har_cnn/imgs/
+baselines/github/imutensor/data/
+baselines/github/imutensor/data2/
+baselines/github/imutensor/data3/
+baselines/github/imutensor/*.png
+baselines/github/imutensor/*.jpg
+baselines/github/imutensor/*.apk
+baselines/github/imutensor/*.pdf
+baselines/github/imutensor/*.bbl
+baselines/github/imutensor/*.bib
+baselines/github/imutensor/*.blg
 data/auth_audit_tmp/
 runs/
 artifacts*/
